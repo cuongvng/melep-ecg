@@ -1,0 +1,3 @@
+Pre-trained models can be found here
+https://1drv.ms/f/s!AvPo7TVfqxSKi9l8W9JvgFh9MU08Cg?e=7Tigmw
+Place them inside this folder.

@@ -1,6 +1,6 @@
 ## MELEP: A Novel Predictive Measure of Transferability in Multi-Label ECG Diagnosis
 
-This repository contains code and resources related to the implementation of the paper `MELEP: A Novel Predictive Measure of Transferability in Multi-Label ECG Diagnosis`.
+This repository contains code and resources related to the implementation of the paper `MELEP: A Novel Predictive Measure of Transferability in Multi-Label ECG Diagnosis`, published in the Journal of Healthcare Informatics Research (2024).
 
 ## Installation
 
@@ -33,11 +33,13 @@ python ptbxl_resnet_transfer.py
 If you find this work helpful, please cite:
 
 ```
-@article{nguyen2023melep,
-  title={MELEP: A Novel Predictive Measure of Transferability in Multi-Label ECG Analysis},
+@article{nguyen2024melep,
+  title={MELEP: A Novel Predictive Measure of Transferability in Multi-label ECG Diagnosis},
   author={Nguyen, Cuong V and Duong, Hieu Minh and Do, Cuong D},
-  journal={arXiv preprint arXiv:2311.04224},
-  year={2023}
+  journal={Journal of Healthcare Informatics Research},
+  pages={1--17},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
